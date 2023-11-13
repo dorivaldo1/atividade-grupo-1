@@ -1,0 +1,21 @@
+body { 
+    background-color: rgb(134, 123, 102);
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#p1{
+    text-align: center;
+    color:pink;
+    font-size: 20px;
+
+}
+
+#p2 {
+    text-align: center;
+    color:purple;
+    font-size: 20px;
+}
